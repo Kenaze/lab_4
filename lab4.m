@@ -7,8 +7,8 @@ close all;
 %
 % Перед запуском укажите имена файлов своего варианта.
 % Файлы удобно положить в одну папку с этим скриптом.
-jpgFile = 'variant.jpg';
-gifFile = 'variant.gif';
+jpgFile = 'Variant_07_04.jpg';
+gifFile = 'Variant_07_04.gif';
 
 %% Проверка входных файлов
 if ~isfile(jpgFile)
